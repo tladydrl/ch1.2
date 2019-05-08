@@ -103,7 +103,7 @@ print(s.count("Like")) # Like라는 문자의 개수 출력.
 print(s.find("Like")) # 문자열에서 이 문자가 처음나오는 위치의 인덱스.. 0,1,2.
 print(s.find("Like", 5)) # 문자 \ 5번째부터 찾음
 print(s.find("JavaScript"))  # 찾지 못했을때 -1..
-print(s.rfind("Like")) #
+print(s.rfind("Like")) # 반대로 찾음
 
 
 # 내일 편집 치환 , 정렬,, 예외. -1//
